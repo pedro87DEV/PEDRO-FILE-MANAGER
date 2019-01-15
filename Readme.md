@@ -1,7 +1,7 @@
 ✓ Author: Mattia Pedroncelli© - Date: 2019  mattia.pedroncelli@gmail.com
   
-# GUI FILE MANAGER
-### GUI per la gestione di varie funzionalità sui file
+# PEDRO-FileManager
+### GUI per la gestione di varie funzionalità sui file.
 
 
 La GUI nella HOME PAGE mostra nel Menù in alto le funzioni disponibili da effettuare sui file.
