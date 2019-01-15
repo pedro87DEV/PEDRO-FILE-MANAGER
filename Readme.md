@@ -6,11 +6,13 @@
 
 La GUI nella HOME PAGE mostra nel Menù in alto le funzioni disponibili da effettuare sui file.
 o script mostra a video il timing rimanente (ORE, MINUTI, SECONDI) dall'orario attuale rispetto all'orario impostato per il calcolo del countdown.   
+  
 La GUI è eseguibile da un file .exe **PEDRO-FileManager.exe** generata dallo script python.
  
 ![logo](./images/GUI_PEDRO-FileManager.png)  
   
 Selezionando dal menù la funzione desiderata si accede al pannello della funzione. 
+ 
 
 **Funzioni disponibili**
 
